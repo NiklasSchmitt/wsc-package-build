@@ -1,5 +1,5 @@
 # wsc-package-build
-biuld-script for WoltLab Suite packages
+build-script for WoltLab Suite packages
 
 Usage: PACKAGE_NAME=com.your.packagename ./build.sh
 The package has to be in the subfolder com.your.packagename/.
